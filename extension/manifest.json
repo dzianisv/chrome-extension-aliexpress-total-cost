@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "AliExpress Total Price",
+    "version": "1.0",
+    "description": "Enhance your AliExpress shopping experience.",
+    "permissions": ["activeTab", "https://aliexpress.ru/*"],
+    "content_scripts": [
+      {
+        "matches": ["https://aliexpress.ru/*"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  
