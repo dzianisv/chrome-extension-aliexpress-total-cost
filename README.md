@@ -1,4 +1,6 @@
-This aliexpress browser extension show a total price for the item (item price + delivery cost to your region).
+## Intro
+This is annoying. You don't see the total cost of the the item on Aliexpress marketplace.
+This browser extension shows a total price for the item (item price + delivery cost to your region).
 
 ![](doc/demo.webp)
 
